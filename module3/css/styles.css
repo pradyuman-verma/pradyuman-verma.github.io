@@ -1,0 +1,116 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	background-color: #f8f7f7;
+	font-size: 16px;
+	font-family: 'Oxygen', sans-serif;
+}
+
+/* Header starts */
+#header-nav{
+	background-color:#585858;
+	border-radius: 0;
+	border:0;
+}
+
+.navbar-brand{
+	text-align: left;
+	text-transform: uppercase;
+}
+
+.navbar-brand h1{
+	margin-top: 0px;
+	color:#D8D8D8;
+	text-shadow: 1px 1px 5px #282828;
+	font-weight: lighter;
+	margin-bottom: 0px;
+	line-height: .75;
+	font-size: 1.5em;
+}
+
+.navbar-brand a:hover , .navbar-brand a:focus{
+	text-decoration: none;
+}
+
+#nav-list{
+	margin-top: 10px;
+}
+
+#nav-list a{
+	color:#C8C8C8;
+	text-align: center;
+	text-transform: capitalize;
+}
+
+#nav-list a:hover{
+	background:#FFFFFF;
+}
+
+/* header closed */
+
+/*main content starts */
+
+#menu-title{
+	font-size: 2.5em;
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+
+.food{
+	float: left;
+	background-color:#A9A9A9;
+	padding: 10px;
+	margin-right: 0px;
+	margin-bottom: 3px;
+	border:8px solid white;
+}
+
+div > section >h3{
+	text-align: center;
+	text-transform: capitalize;
+	font-weight: bold;
+	font-size: 1.5em;
+     
+}
+
+div> section > p{
+	text-align: justify;
+}
+
+.food:hover{
+	box-shadow: 1px 1px 2px #686868;
+}
+
+.food a{
+	float: right;
+}
+
+.food a span{
+	color: 	#E8E8E8;
+	
+}
+
+.food a span:hover{
+	text-shadow: 1px 1px 5px black;
+}
+
+.food a{
+	text-decoration: none;
+}
+
+/* main content ends */
+
+footer{
+	text-align: center;
+	font-size: .8em;
+}
+
+/*for extra extra small devices */
+
+@media (max-width: 479px){
+	.navbar-brand h1{
+		font-size: 1.2em;
+	}
+
+}
