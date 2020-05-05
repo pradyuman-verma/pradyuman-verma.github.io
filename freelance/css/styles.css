@@ -1,0 +1,154 @@
+
+body{
+	background-color: #050505;
+	font-size: 16px;
+	color: #ddd;
+}
+
+#bg-image{
+	background:url('../images/forest.jpg') no-repeat;
+	height: 763px; 
+	width:100%;
+}
+/******* header starts *******/
+#header-nav{
+	background: transparent;
+	border-radius: 0;
+	border:0;
+}
+
+#logo-img{
+	background: url('../images/logo.png'); 
+	margin-top: 20px;
+	height: 33px;
+	width: 112px;
+}
+
+#nav-list{
+	font-family:'Oxygen', sans-serif;
+	text-align: center;
+	text-transform: uppercase;
+	padding-top: 15px;
+	font-size: .7em; 
+	font-weight: bold;
+	color: white;
+	margin-left: 2px;
+}
+
+/******* header ends *******/
+
+.container-fluid{
+	background: transparent;
+}
+
+#div-main{
+	height: 698px;
+	margin-bottom: 0px;
+
+}
+
+#section1{
+	padding-top: 200px;
+}
+.p1 , #span1{
+	text-align: center;
+	text-transform: uppercase;
+	color: white;
+	font-weight: bold;
+	font-family: oswald,sans-serif;
+}
+
+#span1{
+	font-size: 4em;
+	font-weight: 1200;
+	word-spacing: 50px;
+}
+
+.c1{
+	font-size: 15px;
+	font-family: open sans,sans-serif;
+	color: #bbb;
+}
+
+/* first scroll ends */
+
+#scroll2 , #scroll3{
+	background-color: #050505;
+	margin-top: 0px;
+
+}
+
+#section2 , #section3{
+	position: relative;
+	top: 280px;
+	text-align: left;
+	width: 80%;
+	margin-left: 100px;
+}
+
+#about_us , #services{
+	float: left;
+}
+
+#button1{
+	margin-top: 20px;
+	background-color: #ff4c4c;
+	line-height: 45px;
+	font-size: 10px;
+	border:0;
+	border-radius: 0;
+	padding: 0 25PX;
+	font-family:open sans,sans-serif;
+	letter-spacing: 2px;
+	text-align: center;
+	text-transform: uppercase;
+	outline: 0px;
+	}
+
+#pimage{
+	height:763px; 
+	width:100%;
+}
+
+#p2 , #p3{
+	clear: left;
+}
+
+
+/* 2nd scroll ends */
+
+#scroll3{
+	background:url('../images/laptop.jpg'); 
+	height: 763px;
+	width: 100%;
+}
+
+#services{
+     margin-bottom: 20px;
+}
+
+.service-content{
+	height:200px;
+	width: 300px;
+}
+
+#section3{
+	top: 200px;
+}
+ 
+ #service-id{
+ 	text-align: left;
+ 	font-size: 25px;
+ }
+
+ .row{
+ 	margin-top: 100px;
+ }
+
+ #section4{
+ 	border:.5px solid transparent;
+ 	background-color: black;
+ 	padding: 10px;
+	opacity: .5;
+}
+ 
