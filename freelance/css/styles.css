@@ -6,7 +6,7 @@ body{
 }
 
 #bg-image{
-	background:url('../images/forest.jpg') repeat;
+	background:url('../images/forest.jpg') no-repeat;
 	height: 763px; 
 	width:100%;
 }
@@ -76,13 +76,13 @@ body{
 #scroll2 .row{
 	margin-top: 0px;
 }
-#scroll2 , #scroll3{
+#scroll2 , #scroll3 ,#scroll4{
 	background-color: #050505;
 	margin-top: 0px;
 
 }
 
-#s2section2 , #s3section3{
+#s2section2 , #s3section3, #s4section1{
 	position: relative;
 	top: 280px;
 	text-align: left;
@@ -90,7 +90,7 @@ body{
 	margin-left: 100px;
 }
 
-#about_us , #services{
+#about_us , #services, .s4section1{
 	float: left;
 }
 
@@ -138,7 +138,7 @@ body{
 	width: 300px;
 }
 
-#s3section3{
+#s3section3 , #s4section1{
 	top: 200px;
 }
  
@@ -158,3 +158,133 @@ body{
 	opacity: .5;
 }
  
+ /* 3rd scroll ends */
+#s4section1{
+	top: 300px;
+}
+
+#s4d1{
+	position: relative;
+	top: 0px;
+	left:38.3%;
+	width: 933.787px;
+	margin-top: 0px;
+	height: 763px;
+}
+
+#s4h{
+	text-align: left;
+	margin-bottom: 20px;
+	font-size: 32px;
+	font-weight: 600;
+	}
+
+#scroll4 .row{
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+}
+
+#s4d2{
+	position: absolute;
+	width: 100%;
+	padding-right: 0px;
+}
+
+.s4img{
+	height: 381.5px;
+	padding: 0px;
+}
+/* scroll 4 ends */
+
+#scroll5{
+	height: 600px;
+	background-color: black;
+}
+
+#s5d1{
+	padding-top: 100px;
+
+}
+
+#s5d1 h1{
+	font-size: 3em;
+	font-weight: 600;
+	margin-bottom: 10px;
+}
+
+#s5d1 button{
+	position: relative;
+	left: 43%;
+}
+
+/* scroll 5 ends */
+
+#scroll6{
+	height: 763px;
+	background-color: black;
+}
+
+#scroll6 .row{
+	margin-top: 0px;
+}
+
+#scroll6 h1{
+	text-align: left; 
+	margin-bottom: 80px;
+	margin-left:15px;
+}
+
+.form-control{
+	background:transparent;
+	border-radius: 0;
+	border-top-style: none;
+	border-right-style: none;
+	border-left-style: none;
+
+}
+
+#scroll6 iframe{
+	height: 763px;
+	width: 100%;
+}
+
+#s6d1{
+	padding-right: 0px;
+}
+
+#s6d2{
+	position: relative;
+	top: 200px;
+}
+
+textarea{
+	height: 120px;
+    padding-right:0px;
+    padding-left: 0px;
+    margin-right: 24px;
+    margin-left: 12px;
+}
+
+.form-control{
+	transition: none;
+}
+
+#scroll6 button{
+	margin-left: 12px;
+}
+
+footer{
+
+	background-color:#111;
+	padding-bottom: 20px;
+	
+
+}
+
+#footer p{
+	height: 22.400px;
+	text-align: center;
+	margin-bottom: 0px;
+	padding:20px;
+}
