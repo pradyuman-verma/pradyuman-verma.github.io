@@ -6,7 +6,7 @@ body{
 }
 
 #bg-image{
-	background:url('../images/forest.jpg') no-repeat;
+	background:url('../images/forest.jpg') repeat;
 	height: 763px; 
 	width:100%;
 }
@@ -42,15 +42,16 @@ body{
 }
 
 #div-main{
-	height: 698px;
+	height: 670px;
 	margin-bottom: 0px;
+	padding-bottom: 0px;
 
 }
 
-#section1{
+#s1section1{
 	padding-top: 200px;
 }
-.p1 , #span1{
+.s1p1 , #span1{
 	text-align: center;
 	text-transform: uppercase;
 	color: white;
@@ -64,7 +65,7 @@ body{
 	word-spacing: 50px;
 }
 
-.c1{
+.para-art{
 	font-size: 15px;
 	font-family: open sans,sans-serif;
 	color: #bbb;
@@ -72,13 +73,16 @@ body{
 
 /* first scroll ends */
 
+#scroll2 .row{
+	margin-top: 0px;
+}
 #scroll2 , #scroll3{
 	background-color: #050505;
 	margin-top: 0px;
 
 }
 
-#section2 , #section3{
+#s2section2 , #s3section3{
 	position: relative;
 	top: 280px;
 	text-align: left;
@@ -106,11 +110,13 @@ body{
 	}
 
 #pimage{
+	position: relative;
+	top: 0px;
 	height:763px; 
 	width:100%;
 }
 
-#p2 , #p3{
+#s2p2 , #p3{
 	clear: left;
 }
 
@@ -132,7 +138,7 @@ body{
 	width: 300px;
 }
 
-#section3{
+#s3section3{
 	top: 200px;
 }
  
@@ -145,7 +151,7 @@ body{
  	margin-top: 100px;
  }
 
- #section4{
+ .s3section4{
  	border:.5px solid transparent;
  	background-color: black;
  	padding: 10px;
