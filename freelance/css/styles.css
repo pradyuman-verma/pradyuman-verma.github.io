@@ -79,6 +79,7 @@ body{
 #scroll2 , #scroll3 ,#scroll4{
 	background-color: #050505;
 	margin-top: 0px;
+	height: 763px;
 
 }
 
@@ -287,4 +288,17 @@ footer{
 	text-align: center;
 	margin-bottom: 0px;
 	padding:20px;
+}
+
+/*************** media queries **********/
+
+@media (max-width: 1200px;){
+	#bg-image{
+	background:url('../images/forest_1200.jpg') no-repeat;
+	height: 763px; 
+	width:100%;
+}
+
+@media (min-width: 992px) and (max-width: 1199px;){
+	
 }
