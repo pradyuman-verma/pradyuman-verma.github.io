@@ -15,10 +15,14 @@ h2{
 .max-height {
     min-height: 100vh;
 }
+.row{
+	position: relative;
+}
 #box{
 	background-color: white;
 	align-content: center;
-	width: 100%;
+	margin: auto;
+	width: 60%;
 }
 
 input{
