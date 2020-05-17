@@ -346,12 +346,13 @@ footer{
 		background-color: rgba(255,255,255,.2);
 	}
 
-	#s4d1{
-		position: relative;
-	}
 
 	#s5d1 button{
-		position: absolute;
 		left: 35%;
 	}
-}
+
+	#s2section2 , #s3section3 , #s4section1 {
+		margin: auto;
+	}
+	 }
+	
