@@ -329,9 +329,29 @@ footer{
 	padding:20px;
 }
 
-@media (max-width: 991px){
+@media (max-width: 991px) and (min-width: 768px){
 	.s3section4{
-		background-color: rgba(255,255,255,.5);
+		background-color: rgba(255,255,255,.2);
+		margin-top: 70px;
+	}
 
+	.s3section4:nth-child(odd){
+		margin-left: 50px;
+	}
+	
+}
+
+@media (max-width: 767px){
+	.s3section4{
+		background-color: rgba(255,255,255,.2);
+	}
+
+	#s4d1{
+		position: relative;
+	}
+
+	#s5d1 button{
+		position: absolute;
+		left: 35%;
 	}
 }
