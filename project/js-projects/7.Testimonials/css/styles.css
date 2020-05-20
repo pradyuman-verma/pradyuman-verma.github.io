@@ -132,6 +132,24 @@ hr{
 	padding-left: 3px;
 }
 
+#footer{
+	color: #fefae0;
+	width: 100%;
+	background-color: rgba(0,0,0,.6);
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 12px;
+	height: 20px;
+	position: absolute;
+	top: 96%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+#copy{
+	color: #f0e100;
+}
+
 /*************** for medium devices *****/
 @media (max-width: 992px) and (min-width: 768px ){
 
