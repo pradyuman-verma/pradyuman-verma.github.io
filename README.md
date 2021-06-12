@@ -2,15 +2,15 @@
 
 ## I'm a Developer, and Student!! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-🏫 I'm currently a Third Year Undergraduate student at @IIT_ROORKEE
-🔭 I’m currently working on Backend Development
-😐 I have a love/hate relationship with Programming
-🌱 I’m currently learning MongoDB, React, Node.js
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My buddies include Data Structures and Algorithms
-💬 Ask me about anything, I am happy to help
-😄 Pronouns: Coder, Leader and Kind Hearted
-💡 I do participate in Hackathons
-🎉 Fun-Fact: I ❤️ Photography and watch a lot Sci-Fi Movies🎬
+-🏫 I'm currently a Third Year Undergraduate student at @IIT_ROORKEE
+-🔭 I’m currently working on Backend Development
+-😐 I have a love/hate relationship with Programming
+-🌱 I’m currently learning MongoDB, React, Node.js
+-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My buddies include Data Structures and Algorithms
+-💬 Ask me about anything, I am happy to help
+-😄 Pronouns: Coder, Leader and Kind Hearted
+-💡 I do participate in Hackathons
+-🎉 Fun-Fact: I ❤️ Photography and watch a lot Sci-Fi Movies🎬
 
 ### Connect with me:
 
