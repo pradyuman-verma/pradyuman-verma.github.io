@@ -26,7 +26,7 @@
             creating_new_Ambitions()
 	
  ```
-## I'm a Developer, and Student!! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+## About Me!! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 -🏫 I'm currently a Third Year Undergraduate student at @IIT_ROORKEE
 
@@ -45,11 +45,6 @@
 -💡 I do participate in Hackathons
 
 -🎉 Fun-Fact: I ❤️ Photography and watch a lot Sci-Fi Movies🎬
-
-
-### Connect with me:
-
-[<img align="left" alt="prady | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -73,5 +68,10 @@
 <br />
 <br />
 
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://www.linkedin.com/in/pradyuman-verma/
+###Find me at:
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/pradyuman-verma/)](https://github.com/pradyuman-verma/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pradyuman-verma/)](https://www.linkedin.com/in/pradyuman-verma/)
+[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/pradyumnverma27)](https://www.hackerrank.com/pradyumnverma27)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pradyumnverma27@gmail.com)](mailto:pradyumnverma27@gmail.com)
+[![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/pradyf/)](https://auth.geeksforgeeks.org/user/pradyf/)
+[![Codeforces Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://codeforces.com/profile/Pradyuman)](https://codeforces.com/profile/Pradyuman)
