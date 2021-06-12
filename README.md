@@ -1,5 +1,31 @@
 ### Hola, I'm Pradyuman 👋
 
+ ## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Pradyuman Verma'
+		current_edu = "Undergraduate at IIT ROORKEE"
+		hobbies = [
+				'Drawing',
+                'Photography',
+				'Watching Anime',
+				'Reading Sci-Fi Novels'
+				'Being up all Night chasing that ONE BUG...'
+			]
+	
+	def getCity():
+		return Ujjain_India()
+	
+	def Ambitions():
+        try:
+            learn_Sanskrit()
+            make_a_dron()
+            #assume 10 more here
+		except AmbitionsLimitExceeded: 
+            Reboot_Amibitions()
+            creating_new_Ambitions()
+	
+ ```
 ## I'm a Developer, and Student!! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 -🏫 I'm currently a Third Year Undergraduate student at @IIT_ROORKEE
