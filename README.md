@@ -68,7 +68,8 @@
 <br />
 <br />
 
-###Find me at:
+### Find me At:
+
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/pradyuman-verma/)](https://github.com/pradyuman-verma/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pradyuman-verma/)](https://www.linkedin.com/in/pradyuman-verma/)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/pradyumnverma27)](https://www.hackerrank.com/pradyumnverma27)
