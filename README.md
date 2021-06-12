@@ -75,4 +75,4 @@
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/pradyumnverma27)](https://www.hackerrank.com/pradyumnverma27)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pradyumnverma27@gmail.com)](mailto:pradyumnverma27@gmail.com)
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/pradyf/)](https://auth.geeksforgeeks.org/user/pradyf/)
-[![Codeforces Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://codeforces.com/profile/Pradyuman)](https://codeforces.com/profile/Pradyuman)
+[![Codeforces Badge]https://img.shields.io/badge/codeforces-1326-green?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://codeforces.com/profile/Pradyuman)](https://codeforces.com/profile/Pradyuman)
